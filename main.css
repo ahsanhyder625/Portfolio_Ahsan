@@ -521,9 +521,6 @@ hr {
 		margin: 0;
 	}
 
-	.services-tiers {
-		gap: 0;
-	}
 	.project-item {
 		flex-direction: column;
 		align-items: flex-start;
